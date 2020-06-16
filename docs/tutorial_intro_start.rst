@@ -8,10 +8,10 @@ To start, we run a basic example to read in a dataset into a GraphFrame. This
 example reads in a sample dataset, and prints out the resulting DataFrame and
 Graph.
 
-:download:`Python Source <../examples/simple/caliper_cali.py>`
+:download:`Python Source <examples/simple/caliper_cali.py>`
 
 .. literalinclude::
-   ../examples/simple/caliper_cali.py
+   examples/simple/caliper_cali.py
    :language: python
    :lines: 1-
 
