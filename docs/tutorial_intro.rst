@@ -27,13 +27,15 @@ Tutorial Notebooks
 * GraphFrame Query Examples: :download:`05_hatchet_query_examples.ipynb <examples/tutorial/05_hatchet_query_examples.ipynb>`
 * Case Studies: :download:`06_hatchet_case_studies.ipynb <examples/tutorial/06_hatchet_case_studies.ipynb>`
 
+
 Python Examples
 ~~~~~~~~~~~~~~~
 
-Hatchet Readers:
-* :download:`caliper_cali.py <examples/simple/caliper_cali.py>`
-* :download:`caliper_cali_to_json.py <examples/simple/caliper_cali_to_json.py>`
-* :download:`caliper_json.py <examples/simple/caliper_json.py>`
-* :download:`dag_literal.py <examples/simple/dag_literal.py>`
-* :download:`gprof_dot.py <examples/simple/gprof_dot.py>`
-* :download:`hpctoolkit.py <examples/simple/hpctoolkit.py>`
+Hatchet Readers
+^^^^^^^^^^^^^^^
+ * :download:`caliper_cali.py <examples/simple/caliper_cali.py>`
+ * :download:`caliper_cali_to_json.py <examples/simple/caliper_cali_to_json.py>`
+ * :download:`caliper_json.py <examples/simple/caliper_json.py>`
+ * :download:`dag_literal.py <examples/simple/dag_literal.py>`
+ * :download:`gprof_dot.py <examples/simple/gprof_dot.py>`
+ * :download:`hpctoolkit.py <examples/simple/hpctoolkit.py>`
