@@ -3,9 +3,6 @@
 
    SPDX-License-Identifier: MIT
 
-Introduction to Hatchet
-=======================
-
 .. toctree::
    tutorial_intro_start
    tutorial_intro_graphframe
