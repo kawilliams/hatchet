@@ -3,7 +3,7 @@
 
    SPDX-License-Identifier: MIT
 
-Analysis Examples
+Advanced Examples
 =================
 
 Generating a flat profile

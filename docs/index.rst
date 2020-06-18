@@ -38,12 +38,11 @@ If you are new to hatchet and want to start using it, see :doc:`Getting Started
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :caption: User Docs
 
    getting_started
    user_guide
-   tutorial
-   simple_examples
+   basic_examples
    advanced_examples
 
 
@@ -57,6 +56,12 @@ following `paper <http://www.cs.umd.edu/~bhatele/pubs/pdf/2019/sc2019.pdf>`_:
   Conference for High Performance Computing, Networking, Storage and Analysis
   (SC '19). ACM, New York, NY, USA.
   `DOI <https://doi.org/10.1145/3295500.3356219>`_
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Tutorials
+
+   basic_tutorial
 
 .. toctree::
    :maxdepth: 2
