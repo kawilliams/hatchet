@@ -38,7 +38,7 @@ messages:
 
 .. code-block:: console
 
-  >>> import hatchet
+  >>> import hatchet as ht
   >>>
 
 You are good to go!
@@ -63,7 +63,7 @@ You can read in a dataset into Hatchet for analysis by using one of several
 
 .. code-block:: console
 
-  >>> import hatchet
+  >>> import hatchet as ht
   >>> caliper_file = 'lulesh-annotation-profile-1core.json'
   >>> gf = ht.GraphFrame.from_caliper_json(caliper_file)
   >>>
@@ -85,10 +85,10 @@ This should produce output like this:
    :scale: 50 %
    :align: center
 
-The Graph component of Hatchet’s GraphFrame stores the connections between
+The Graph component of Hatchet's GraphFrame stores the connections between
 parents and children.  You can print the graph using hatchet's tree printing
 functionality:
- 
+
 .. code-block:: console
 
   >>> print(gf.tree())
